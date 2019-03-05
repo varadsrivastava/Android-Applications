@@ -1,0 +1,28 @@
+localhost:8080/console
+Right click on Worklight project > New > WorklightEnviornment > 
+Apk path : Project>android>native>bin
+
+for RSS
+new Worklight Adapter
+Adaptertype: HTTP
+Run as > Invoke Worklight Procedure
+
+<protocol>https</>
+<domain>rss.cnn.com</>
+<port>80</>
+
+##################################################################
+
+iTravel
+Intelligent Travel Expense Claim
+
+Yummy : Restaurant Management
+
+CARE : Patient in Queue
+
+Musical Instruments Encyclopedia
+
+Around Me
+
+Currency Convertor
+

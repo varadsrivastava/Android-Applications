@@ -1,0 +1,14 @@
+#Close All Activities
+Intent intent = now intent(getApplicationContext(), MainActivity.class);
+intent.addflags(intent.FLAG_ACTIVITY_CLEAR_TASK)
+
+#Kill Process
+public void a(View view)
+{
+moveTaskToBack(true);
+android.os.Process.killProcess(android.os.Process.Pid());
+System.exit(1);
+}
+
+
+OnBackPressed.
